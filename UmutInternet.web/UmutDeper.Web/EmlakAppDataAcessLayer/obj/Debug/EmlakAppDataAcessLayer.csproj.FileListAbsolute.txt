@@ -1,0 +1,14 @@
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EmlakAppDataAcessLayer.dll.config
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EmlakAppDataAcessLayer.dll
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EmlakAppDataAcessLayer.pdb
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EmlakAppEntityLayer.dll
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EntityFramework.dll
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EmlakAppEntityLayer.pdb
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EntityFramework.xml
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\obj\Debug\EmlakAppDataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\obj\Debug\EmlakAppDataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\obj\Debug\EmlakAppDataAcessLayer.csproj.CopyComplete
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\obj\Debug\EmlakAppDataAcessLayer.dll
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppDataAcessLayer\obj\Debug\EmlakAppDataAcessLayer.pdb

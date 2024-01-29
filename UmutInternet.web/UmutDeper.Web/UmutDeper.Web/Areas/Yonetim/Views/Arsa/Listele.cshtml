@@ -1,0 +1,35 @@
+﻿@model List<EmlakAppEntityLayer.Arsa>
+@{
+    ViewBag.Title = "Listele";
+}
+<h2>Arsa Listesi</h2>
+<a href="@Url.Action("Ekle")" class="btn btn-primary">Ekle</a>
+<br />
+<br />
+<table class="table">
+    <tr>
+        <th>Id</th>
+        <th>Aciklama</th>
+        <th>Arsa Adres</th>
+        <th>Genislik</th>
+        <th>Fiyat</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.aciklama_</td>
+            <td>@item.arsa_adres</td>
+            <td>@item.genislik</td>
+            
+            <td>@item.Fiyat.ToString("C")</td>
+
+            <td>
+                <a href="@Url.Action("Sil", new { id = item.Id })" class="btn btn-danger btn-xs">Sil</a>
+                <a href="@Url.Action("Düzenle", new { id = item.Id })" class="btn btn-info btn-xs">Düzenle</a>
+
+            </td>
+        </tr>
+    }
+</table>

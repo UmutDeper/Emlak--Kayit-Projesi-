@@ -1,0 +1,21 @@
+﻿@model EmlakAppEntityLayer.Dukkan
+@{
+    ViewBag.Title = "Dukkan Sil";
+}
+
+<h2>Sil</h2>
+<hr />
+<p> @Model.dukkan_adres deki Daireyi silme istiyr musunuz</p>
+@using (Html.BeginForm("Sil", "Dukkan", FormMethod.Post, new { @class = "form-horizontal" }))
+{
+    @Html.AntiForgeryToken()
+
+
+
+    <div class="form-group">
+        <div class="col-md-10 col-md-offset-2">
+            <a href="@Url.Action("Listele")" class="btn btn-default">İptal</a>
+            <button type="submit" class="btn btn-danger">Sil</button>
+        </div>
+    </div>
+}

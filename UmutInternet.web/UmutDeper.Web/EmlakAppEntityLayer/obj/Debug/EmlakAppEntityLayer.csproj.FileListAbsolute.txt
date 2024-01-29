@@ -1,0 +1,6 @@
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppEntityLayer\bin\Debug\EmlakAppEntityLayer.dll
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppEntityLayer\bin\Debug\EmlakAppEntityLayer.pdb
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppEntityLayer\obj\Debug\EmlakAppEntityLayer.csproj.AssemblyReference.cache
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppEntityLayer\obj\Debug\EmlakAppEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppEntityLayer\obj\Debug\EmlakAppEntityLayer.dll
+C:\Users\UmutDEPER\Desktop\UmutInternet.web\UmutDeper.Web\EmlakAppEntityLayer\obj\Debug\EmlakAppEntityLayer.pdb
